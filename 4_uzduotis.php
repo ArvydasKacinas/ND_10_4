@@ -7,7 +7,7 @@
     <title>4 Uzduotis</title>
 </head>
 <body>
-    <form method="POST" action="manopaskyra.php 404.php">
+    <form method="POST" action="manopaskyra.php">
         <div>
             <p>Prisijungimo Vardas</p>
             <input name="vardas"/>
@@ -19,8 +19,5 @@
         <button name="login" type="submit">Prisijungti</button>
     </form>
 
-    <div>
-
-    </div>
 </body>
 </html>
