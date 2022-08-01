@@ -14,7 +14,7 @@
         </div>
         <div>
             <p>Slaptazodis</p>
-            <input name="slaptazodis"/>
+            <input name="slaptazodis" type="password"/>
         </div>    
         <button name="login" type="submit">Prisijungti</button>
     </form>
